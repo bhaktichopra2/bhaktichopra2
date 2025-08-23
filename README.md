@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I'm Bhakti Chopra!<br><br>💻 About Me<br>🎓 I'm a 3rd-year B.Tech student passionate about cybersecurity, software development, and tech for social good.<br>🛡 I'm exploring *digital forensics, **network security, and *ethical hacking.<br>🔧 I love building things that solve real-world problems — especially through hackathons and community-based projects.<br><br>
+👋 Hi, I'm Bhakti Chopra!<br><br>💻 About Me<br>🎓 I'm a 3rd-year B.Tech student passionate about cybersecurity, software development, and tech for social good.<br>🛡 I'm exploring digital forensics, network security, and ethical hacking.<br>🔧 I love building things that solve real-world problems — especially through hackathons and community-based projects.<br><br>
 
 
 ## 🌐 Socials:
